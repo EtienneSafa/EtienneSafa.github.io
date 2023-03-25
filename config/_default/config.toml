@@ -14,6 +14,8 @@ relativeURLs = "true"
 
 baseURL = "https://etiennesafa.github.io/"
 publishDir = "public"
+languageCode = 'fr-fr'
+title = 'Etienne Safa Portfolio'
 
 # Remote
 #baseURL = "https://caressofsteel.github.io/demos/hugo/hugo-story/"
