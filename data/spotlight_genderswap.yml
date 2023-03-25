@@ -1,7 +1,8 @@
 ####################### Spotlight #########################
 style: "style5 orient-right content-align-left image-position-center onscroll-image-fade-in"
-id: "genderswap"
-title : "Gender swap (digital painting)"
+id: "spotlight_section_genderswap"
+title : "Gender swap (2022)"
 content: |
-  <img src="/images/SW gender swap/gs_sw_leia.png" width=50%></img>
+  <h3>Digital painting</h3>
+  <img src="images/SW gender swap/gs_sw_leia.png" width=60%>
 image: "/images/SW gender swap/gs_sw_anakin.png"

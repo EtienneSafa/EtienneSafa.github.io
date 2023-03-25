@@ -8,6 +8,6 @@ content: |
   <strong>Pour une fois, j'inverse la vapeur :</strong> plutôt que d'illustrer pour un projet, je cherche les personnages que j'ai envie de rencontrer et je les dessine.
   <strong>Un jour, ce sont eux qui me raconteront leurs histoires.</strong>
 button: 
-  label: "Découvrir la collection"
-  link: "#enfance"
+  label: "Découvrir les personnages"
+  link: "#spotlight_enfance_lola"
 image: "images/enfantin/ombeline_course.png"

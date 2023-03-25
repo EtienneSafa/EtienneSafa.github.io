@@ -1,0 +1,15 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in color8 invert"
+id: "spotlight_enfance_papa_velu"
+title : "Papa velu"
+content: |
+  <ul>
+    <li><strong>Âge :</strong> entre 35 et 40 ans</li>
+    <li><strong>Lieu :</strong> nulle part (ou partout)</li>
+    <li><strong>Caractère :</strong> sérieux et strict, mais gentil</li>
+    <li><strong>Occupations :</strong> explorateur, colporteur</li>
+  </ul>
+  <br>
+  Sa corpulence et son air renfrogné le tiennent à l'abri de la plupart des ennuis — sauf quand ils sont de nature sauvage…
+  
+image: "images/enfantin/galerie_enfantin/papa_velu-full.png"

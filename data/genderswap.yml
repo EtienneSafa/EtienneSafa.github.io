@@ -1,0 +1,17 @@
+title: ""
+id: "genderswap"
+style: "style1 medium lightbox onscroll-fade-in"
+content: |
+
+pictures:
+  - title: "Anakin"
+    content: ""
+    image: "images/SW gender swap/gs_sw_anakin.png"
+    thumb: "images/SW gender swap/gs_sw_anakin.png"
+    button: "Details"
+  
+  - title: "Leia"
+    content: ""
+    image: "images/SW gender swap/gs_sw_leia.png"
+    thumb: "images/SW gender swap/gs_sw_leia.png"
+    button: "Details"

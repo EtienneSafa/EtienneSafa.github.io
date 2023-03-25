@@ -1,0 +1,15 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in color4 invert"
+id: "spotlight_enfance_lola"
+title : "Lola"
+content: |
+  <ul>
+    <li><strong>Âge :</strong> entre 12 et 13 ans</li>
+    <li><strong>Lieu :</strong> grande ville aux bâtiments enchevêtrés</li>
+    <li><strong>Caractère :</strong> plutôt jovial, parfois nostalgique</li>
+    <li><strong>Occupations :</strong> coursière</li>
+  </ul>
+  <br>
+  Enfant des rues, elle a grandi dans une ville immense dont elle connaît presque tous les toits, ruelles et passerelles qu'elle escalade et arpente aussi adroitement qu'un petit singe !
+
+image: "images/enfantin/galerie_enfantin/lola_regarde_loin_1-full.png"

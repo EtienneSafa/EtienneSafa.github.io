@@ -1,0 +1,15 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in color2 invert"
+id: "spotlight_enfance_ombeline"
+title : "Ombeline"
+content: |
+  <ul>
+    <li><strong>Âge :</strong> entre 9 et 11 ans</li>
+    <li><strong>Lieu :</strong> faubourgs</li>
+    <li><strong>Caractère :</strong> guillerette et déterminée</li>
+    <li><strong>Occupations :</strong> disciple</li>
+  </ul>
+  <br>
+  Les temples des faubourgs recueillent de nombreux enfants dans le besoin, qui trouvent à s'occuper en surveillant les statues sacrées et en guidant les visiteurs. Bien qu'elle apprécie cette vie, Ombeline ne peut s'empêcher de faire la "sentinelle buissonnière" de temps à autre !
+  
+image: "images/enfantin/galerie_enfantin/ombeline_course-full.png"

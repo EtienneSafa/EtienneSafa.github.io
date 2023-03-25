@@ -7,6 +7,30 @@ content: |
 pictures:
   - title: ""
     content: ""
+    image: "images/Osaria/p1-full.png"
+    thumb: "images/Osaria/p1.png"
+    button: "Details"
+  
+  - title: ""
+    content: ""
+    image: "images/Osaria/p2-full.png"
+    thumb: "images/Osaria/p2.png"
+    button: "Details"
+  
+  - title: ""
+    content: ""
+    image: "images/Osaria/p3-full.png"
+    thumb: "images/Osaria/p3.png"
+    button: "Details"
+  
+  - title: ""
+    content: ""
+    image: "images/Osaria/p4-full.png"
+    thumb: "images/Osaria/p4.png"
+    button: "Details"
+  
+  - title: ""
+    content: ""
     image: "images/Osaria/p1-line.png"
     thumb: "images/Osaria/p1-line.png"
     button: "Details"

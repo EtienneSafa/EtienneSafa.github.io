@@ -1,0 +1,15 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in color1 invert"
+id: "spotlight_enfance_alban"
+title : "Alban"
+content: |
+  <ul>
+    <li><strong>Âge :</strong> entre 10 et 12 ans</li>
+    <li><strong>Lieu :</strong> contrées sauvages</li>
+    <li><strong>Caractère :</strong> sérieux, concentré (difficile à dérider)</li>
+    <li><strong>Occupations :</strong> chasseur, explorateur</li>
+  </ul>
+  <br>
+  Pour autant qu'il s'en souvient, Alban a toujours vécu dans les montagnes forestières, si loin des villes qu'il n'en aperçoit généralement que la lueur dans la nuit. Il connaît par cœur les espèces qui vivent alentour et vit de ce que la nature lui prodigue.
+  
+image: "images/enfantin/galerie_enfantin/alban_assaut-full.png"
