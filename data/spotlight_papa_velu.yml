@@ -3,7 +3,7 @@ style: "style1 orient-left content-align-left image-position-center onscroll-ima
 id: "spotlight_enfance_papa_velu"
 title : "Papa velu"
 content: |
-  <ul>
+  <ul class="alt">
     <li><strong>Âge :</strong> entre 35 et 40 ans</li>
     <li><strong>Lieu :</strong> nulle part (ou partout)</li>
     <li><strong>Caractère :</strong> sérieux et strict, mais gentil</li>

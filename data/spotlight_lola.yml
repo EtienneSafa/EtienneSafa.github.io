@@ -3,7 +3,7 @@ style: "style1 orient-right content-align-left image-position-center onscroll-im
 id: "spotlight_enfance_lola"
 title : "Lola"
 content: |
-  <ul>
+  <ul class="alt">
     <li><strong>Âge :</strong> entre 12 et 13 ans</li>
     <li><strong>Lieu :</strong> grande ville aux bâtiments enchevêtrés</li>
     <li><strong>Caractère :</strong> plutôt jovial, parfois nostalgique</li>

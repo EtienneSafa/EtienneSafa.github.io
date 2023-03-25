@@ -2,6 +2,7 @@ title: "Illustrations & Line-art"
 id: "enfance"
 style: "style1 small lightbox onscroll-fade-in"
 content: |
+  Recherches en cours — forme finale probablement trouvée avec Ombeline puis Lola.
 
 pictures:
   - title: ""
@@ -139,5 +140,5 @@ pictures:
   - title: ""
     content: ""
     thumb: "images/enfantin/galerie_enfantin/papa_velu_line_H450px.jpg"
-    button: "images/enfantin/galerie_enfantin/details"
-    image: "papa_velu_line-full.png"
+    image: "images/enfantin/galerie_enfantin/papa_velu_line-full.png"
+    button: "details"

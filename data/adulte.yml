@@ -1,4 +1,4 @@
-title: "Classics"
+title: "Classique"
 id: "adulte"
 style: "style1 medium lightbox onscroll-fade-in"
 content: |
@@ -7,24 +7,24 @@ content: |
 pictures:
   - title: "Sorcière"
     content: ""
-    image: "images/witchtober/bougie_de_sorciere.png"
+    image: "images/witchtober/bougie_de_sorciere_crop2.png"
     thumb: "images/witchtober/bougie_de_sorciere.png"
     button: "Details"
   
   - title: "Empoisonnement"
     content: ""
-    image: "images/witchtober/empoisonnement.png"
+    image: "images/witchtober/empoisonnement_crop.png"
     thumb: "images/witchtober/empoisonnement.png"
     button: "Details"
   
   - title: "Papi Bogue"
     content: ""
-    image: "images/witchtober/papi_bogue.png"
+    image: "images/witchtober/papi_bogue_crop2.png"
     thumb: "images/witchtober/papi_bogue.png"
     button: "Details"
   
   - title: "Sarcophage"
     content: ""
-    image: "images/witchtober/sarcophage.png"
+    image: "images/witchtober/sarcophage_crop2.png"
     thumb: "images/witchtober/sarcophage.png"
     button: "Details"
