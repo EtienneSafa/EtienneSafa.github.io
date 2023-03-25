@@ -11,8 +11,8 @@ theme = "hugo-story"
 relativeURLs = "true"
 #canonifyURLs = "true"
 
-# Local
-baseURL = "/"
+
+baseURL = "https://etiennesafa.github.io/"
 publishDir = "public"
 
 # Remote
