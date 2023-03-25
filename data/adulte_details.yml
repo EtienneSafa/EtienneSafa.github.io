@@ -1,0 +1,40 @@
+title: "Work in Progress"
+style: "style1 medium lightbox onscroll-fade-in"
+content: |
+
+pictures:
+  - title: "Sorcière"
+    content: ""
+    image: "images/witchtober/bougie_de_sorciere_wip1.png"
+    thumb: "images/witchtober/bougie_de_sorciere_wip1.png"
+    button: "Details"
+  
+  - title: "Papi Bogue"
+    content: ""
+    image: "images/witchtober/papi_bogue_crop1.png"
+    thumb: "images/witchtober/papi_bogue_crop1.png"
+    button: "Details"
+  
+  - title: "Empoisonnement"
+    content: ""
+    image: "images/witchtober/empoisonnement_lineart.png"
+    thumb: "images/witchtober/empoisonnement_lineart.png"
+    button: "Details"
+  
+  - title: "Papi Bogue"
+    content: ""
+    image: "images/witchtober/papi_bogue_wip1.png"
+    thumb: "images/witchtober/papi_bogue_wip1.png"
+    button: "Details"
+
+  - title: "Sarcophage"
+    content: ""
+    image: "images/witchtober/sarcophage_lineart.png"
+    thumb: "images/witchtober/sarcophage_lineart.png"
+    button: "Details"
+  
+  - title: "Sarcophage"
+    content: ""
+    image: "images/witchtober/sarcophage_colo_lineart.png"
+    thumb: "images/witchtober/sarcophage_colo_lineart.png"
+    button: "Details"

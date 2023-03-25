@@ -1,0 +1,36 @@
+title: "Éléments visuels"
+id: "elements_visuels_chronos"
+style: "style2 medium lightbox onscroll-fade-in"
+content: |
+  Quelques illustrations figurant dans les 3 premiers éléments de jeu.
+pictures:
+
+  - title: "Publicité old school"
+    content: ""
+    image: "images/Chronos/pub_clef_malte.png"
+    thumb: "images/Chronos/pub_clef_malte.png"
+    button: "Details"
+  
+  - title: "Publicité old school"
+    content: ""
+    image: "images/Chronos/pub_voituriers_chouette.png"
+    thumb: "images/Chronos/pub_voituriers_chouette.png"
+    button: "Details"
+
+  - title: "Publicité old school"
+    content: ""
+    image: "images/Chronos/pub_cidre.png"
+    thumb: "images/Chronos/pub_cidre.png"
+    button: "Details"
+  
+  - title: "Publicité old school"
+    content: ""
+    image: "images/Chronos/pub_pompes.png"
+    thumb: "images/Chronos/pub_pompes.png"
+    button: "Details"
+
+  - title: "Publicité old school"
+    content: ""
+    image: "images/Chronos/pub_double.jpg"
+    thumb: "images/Chronos/pub_double.jpg"
+    button: "Details"

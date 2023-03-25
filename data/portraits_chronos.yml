@@ -1,0 +1,29 @@
+title: "Portraits gravés"
+id: "portraits"
+style: "style1 medium lightbox onscroll-fade-in"
+content: |
+  Quatre personnages historiques de la ville de Dijon, illustrés dans le second élément de jeu.
+pictures:
+  - title: "Marthe"
+    content: ""
+    image: "images/Chronos/Marthe_1250.png"
+    thumb: "images/Chronos/Marthe_1250.png"
+    button: "Details"
+  
+  - title: "Bernard"
+    content: ""
+    image: "images/Chronos/Bernard_1250.png"
+    thumb: "images/Chronos/Bernard_1250.png"
+    button: "Details"
+  
+  - title: "Sauvageot"
+    content: ""
+    image: "images/Chronos/Sauvageot_1250.png"
+    thumb: "images/Chronos/Sauvageot_1250.png"
+    button: "Details"
+  
+  - title: "Baudot"
+    content: ""
+    image: "images/Chronos/Baudot_1250.png"
+    thumb: "images/Chronos/Baudot_1250.png"
+    button: "Details"

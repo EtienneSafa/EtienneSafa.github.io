@@ -1,0 +1,25 @@
+{{ define "main" }}
+
+	{{ partial "banner" site.Data.banner }}
+	{{ partial "spotlight" site.Data.spotlight_enfance }}
+	{{ partial "spotlight" site.Data.spotlight_osaria }}
+	{{ partial "spotlight" site.Data.spotlight_adulte }}
+	{{ partial "spotlight" site.Data.spotlight_old_fashioned }}
+	{{ partial "gallery" site.Data.enfance }}
+	<hr><br>
+	{{ partial "spotlight" site.Data.spotlight_osaria_section }}
+	{{ partial "gallery" site.Data.osaria }}
+	{{ partial "gallery" site.Data.adulte }}
+	<!-- {{ partial "gallery" site.Data.adulte_details }} -->
+	<hr>
+	{{ partial "spotlight" site.Data.spotlight_old_fashioned_section }}
+	{{ partial "gallery" site.Data.portraits_chronos }}
+	{{ partial "gallery" site.Data.publicites_chronos }}
+	<hr>
+	{{ partial "spotlight" site.Data.spotlight_genderswap }}
+	<!-- {{ partial "items" site.Data.items }} -->
+	<!-- {{ partial "elements" . }} -->
+	<!-- {{ partial "elements_reference" . }} -->
+	{{ partial "footer" . }}
+
+{{ end }}

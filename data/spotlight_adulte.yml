@@ -1,0 +1,9 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+title : "Classique"
+content: |
+  Mon <strong>second univers</strong>, issu de diverses influences et d'un amour sans bornes pour la Bande Dessinée.
+button: 
+  label: "Découvrir la collection"
+  link: "#adulte"
+image: "images/witchtober/bougie_de_sorciere_crop1.png"

@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "spotlight_old"
+title : "Old fashioned"
+content: |
+  Années 20-30, swing, jazz et vieux journaux : rapide plongée dans un style inspiré <strong>des gravures et de l'imprimerie ancienne</strong>, ainsi que de l'Art Nouveau / Art Déco.
+button: 
+  label: "Découvrir la collection"
+  link: "#spotlight_old_section"
+image: "images/Chronos/Illustration2.png"

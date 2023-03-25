@@ -1,0 +1,14 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-center fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Etienne Safa"
+subtitle: |
+  En arpentant le fil de l'art.
+content : |
+  L'illustration m'a suivi des ateliers des Beaux Arts aux bancs de la fac : des croquis faits à la volée, saisissant les images projetées dans les amphithéâtres d'histoire de l'art et d'archéologie. Elle s'est nichée au creux de ma thèse, s'est étendue dans les enseignements que je donnais en lycée et à l'université, puis se fit omniprésente durant quelques temps de freelance.
+  <br><br>
+  Aujourd'hui, elle m'offre un temps de respiration le soir : un terrain d'exploration à arpenter au gré du vent.
+button:
+  label : "En savoir plus"
+  link : "#spotlight_enfance"
+image : "images/enfantin/galerie_alban/Plan de travail 1-full.jpg"
+

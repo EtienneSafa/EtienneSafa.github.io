@@ -1,0 +1,55 @@
+title: ""
+id: "osaria"
+style: "style1 medium lightbox onscroll-fade-in"
+content: |
+  <img src="images/Osaria/diorama.png" align="center" width=90%></img>
+
+pictures:
+  - title: ""
+    content: ""
+    image: "images/Osaria/p1-line.png"
+    thumb: "images/Osaria/p1-line.png"
+    button: "Details"
+  
+  - title: ""
+    content: ""
+    image: "images/Osaria/p2-line2.png"
+    thumb: "images/Osaria/p2-line2.png"
+    button: "Details"
+  
+  - title: ""
+    content: ""
+    image: "images/Osaria/p1-line2.png"
+    thumb: "images/Osaria/p1-line2.png"
+    button: "Details"
+  
+  - title: ""
+    content: ""
+    image: "images/Osaria/p3-line.png"
+    thumb: "images/Osaria/p3-line.png"
+    button: "Details"
+  
+  - title: ""
+    content: ""
+    image: "images/Osaria/p2-line.png"
+    thumb: "images/Osaria/p2-line.png"
+    button: "Details"
+  
+  - title: ""
+    content: ""
+    image: "images/Osaria/p4-line.png"
+    thumb: "images/Osaria/p4-line.png"
+    button: "Details"
+  
+  - title: ""
+    content: ""
+    image: "images/Osaria/p3-line2.png"
+    thumb: "images/Osaria/p3-line2.png"
+    button: "Details"
+  
+  - title: ""
+    content: ""
+    image: "images/Osaria/p4-line2.png"
+    thumb: "images/Osaria/p4-line2.png"
+    button: "Details"
+  

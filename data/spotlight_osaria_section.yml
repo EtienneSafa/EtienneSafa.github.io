@@ -1,0 +1,13 @@
+####################### Spotlight #########################
+style: "style5 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "spotlight_osaria_section"
+title : "Osaria (2022 – 2023)"
+content: |
+  <strong>OSARIA</strong> est un jeu indépendant en cours de développement.
+  Il met en scène des personnages forts en caractère qui donnent tout son sens à la notion d'anti-héros, et se déploie sur plusieurs supports (jeu de cartes & jeu vidéo retro pour son lancement).
+  <br><br>
+  L'univers visuel s'inspire des techniques de linogravure et d'encrage sur celluloïde : un aspect brut, des personnages relativement caricaturés, des expressions fortes et des noirs francs.
+button: 
+  label: "Voir les illustrations"
+  link: "#osaria"
+image: "images/Osaria/p3-full.png"

@@ -1,0 +1,30 @@
+title: "Classics"
+id: "adulte"
+style: "style1 medium lightbox onscroll-fade-in"
+content: |
+  Quelques illustrations fondées sur un style BD, avec un degré variable de "digital painting" : principalement réalisées durant l'Inktober 2020.
+
+pictures:
+  - title: "Sorcière"
+    content: ""
+    image: "images/witchtober/bougie_de_sorciere.png"
+    thumb: "images/witchtober/bougie_de_sorciere.png"
+    button: "Details"
+  
+  - title: "Empoisonnement"
+    content: ""
+    image: "images/witchtober/empoisonnement.png"
+    thumb: "images/witchtober/empoisonnement.png"
+    button: "Details"
+  
+  - title: "Papi Bogue"
+    content: ""
+    image: "images/witchtober/papi_bogue.png"
+    thumb: "images/witchtober/papi_bogue.png"
+    button: "Details"
+  
+  - title: "Sarcophage"
+    content: ""
+    image: "images/witchtober/sarcophage.png"
+    thumb: "images/witchtober/sarcophage.png"
+    button: "Details"

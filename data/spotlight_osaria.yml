@@ -1,0 +1,12 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "spotlight_osaria"
+title : "Rough & Dark"
+content: |
+  Des personnages forts en caractère qui donnent tout son sens à la notion d'anti-héros et se déploient dans un projet multi-facettes (jeu de cartes & jeu vidéo du genre "Arena").
+
+Créateur du projet : Johann Volmer.
+button: 
+  label: "Découvrir la collection"
+  link: "#spotlight_osaria_section"
+image: "images/Osaria/p3.png"
