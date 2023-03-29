@@ -55,12 +55,6 @@ pictures:
 
   - title: ""
     content: ""
-    thumb: "images/enfantin/galerie_enfantin/alban_chasse_line_H450px.jpg"
-    image: "images/enfantin/galerie_enfantin/alban_chasse_line-full.png"
-    button: "details"
-
-  - title: ""
-    content: ""
     thumb: "images/enfantin/galerie_enfantin/alban_debout_H450px.jpg"
     image: "images/enfantin/galerie_enfantin/alban_debout-full.png"
     button: "details"
