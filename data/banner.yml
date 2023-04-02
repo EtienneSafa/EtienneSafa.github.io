@@ -10,5 +10,6 @@ content : |
 button:
   label : "En savoir plus"
   link : "#spotlight_enfance"
-image : "images/enfantin/galerie_enfantin/banner-full.jpg"
+# image : "images/enfantin/galerie_enfantin/banner-full.jpg"
+image : "images/enfantin/alban_banner.png"
 

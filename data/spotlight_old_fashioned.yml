@@ -1,5 +1,5 @@
 ####################### Spotlight #########################
-style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
 id: "spotlight_old"
 title : "Old fashioned"
 content: |
@@ -7,4 +7,4 @@ content: |
 button: 
   label: "Découvrir la collection"
   link: "#spotlight_old_section"
-image: "images/Chronos/Bernard_1250.png"
+image: "images/Chronos/Bernard_1250_alpha.png"
